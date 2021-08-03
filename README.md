@@ -5,6 +5,7 @@ This repository is a collection of codes and packages utilized in the developmen
 More information about the system and set up can be found at DOI:XXX.
 
 **Software** is composed of codes and packages to maintain a two-way coupled simulation workflow betwwen CFD solvers (OpenFOAM and COMSOL) and user applications (e.g. HMD VR).
+
 **Application** comprises demo versions of user applications.
 
 © 2021
