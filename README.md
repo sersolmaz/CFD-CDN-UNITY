@@ -4,6 +4,8 @@ This repository is a collection of codes and packages utilized in the developmen
 
 More information about the system and set up can be found at DOI:XXX.
 
+© 2021
+
 ## License
 Please see the file ./LICENSE for details.
 
