@@ -1,4 +1,4 @@
-# CFD-CDN-UNITY: Interactive CFD simulations with Unity - 2021
+# CFD-CDN-UNITY: Interactive CFD simulations with Unity
 
 This repository is a collection of codes and packages utilized in the development of two-way coupled systems between CFD solvers and user applications built in Unity game engine.
 
