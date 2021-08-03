@@ -1,0 +1,3 @@
+# from cmd = command window
+"C:\Program Files\COMSOL\COMSOL55\Multiphysics\bin\win64\comsol.exe" -edit C:\Users\ssolmaz\Desktop\comsol_trial\mixing3d.mph -Dcs.canvascolor=255,0,0,0,255,0
+"C:\Program Files\COMSOL\COMSOL55\Multiphysics\bin\win64\comsolbatch.exe" -inputfile C:\Users\ssolmaz\Desktop\comsol_trial\mixing3d.mph -methodcall methodcall1
