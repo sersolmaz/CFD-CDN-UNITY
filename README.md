@@ -4,6 +4,9 @@ This repository is a collection of codes and packages utilized in the developmen
 
 More information about the system and set up can be found at DOI:XXX.
 
+## License
+Please see the file ./LICENSE for details.
+
 ## Contact
 Serkan Solmaz (https://www.kuleuven.be/wieiswie/en/person/00127798)
 * Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
