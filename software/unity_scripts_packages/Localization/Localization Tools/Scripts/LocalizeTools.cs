@@ -11,11 +11,9 @@ using System.IO;
 using System.Linq;
 using UnityEngine;
 
-//Localization tool by http://namitentou.com
-
 public class LocalizeTools : MonoBehaviour
 {
-    public static string filename = "/NAMI TENTOU/Localization Tools/Resources/localization.xls";
+    public static string filename = "/Localization/Localization Tools/Resources/localization.xls";
 
     private static TextAsset fileAsTextAsset;
 
@@ -118,7 +116,7 @@ public class LocalizeTools : MonoBehaviour
 
                 if (y + 1 != gridY) fileCSV += "@";
             }
-            File.WriteAllText(Application.dataPath + "/NAMI TENTOU/Localization Tools/Resources/compiledbuild.txt", fileCSV);
+            File.WriteAllText(Application.dataPath + "/Localization/Localization Tools/Resources/compiledbuild.txt", fileCSV);
         }
 
 #endif
