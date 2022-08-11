@@ -2,7 +2,7 @@
 
 This repository is a collection of codes and packages utilized in the development of two-way coupled systems between CFD solvers and user applications built in Unity game engine.
 
-More information about the system and set up can be found at DOI:https://doi.org/10.1016/j.compchemeng.2021.107570
+More information about the system and set up can be found at https://doi.org/10.1016/j.compchemeng.2021.107570.
 
 **Software** is composed of codes and packages to maintain a two-way coupled simulation workflow betwwen CFD solvers (OpenFOAM and COMSOL) and user applications (e.g. HMD VR).
 
